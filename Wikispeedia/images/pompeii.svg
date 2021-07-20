@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="332.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-162.000000 -164.000000 332.000000 323.000000" height="323.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -27.790140,22.739342 L -27.961864,43.623226"
+              class="id_Pompeii id_1st_century" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.331806,4.439412 L 51.073540,-28.971636"
+              class="id_Pompeii id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -19.983086,0.004743 L 28.584255,-63.441139"
+              class="id_Pompeii id_Archaeology" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -35.919647,0.434278 L -118.283180,-95.927483"
+              class="id_Pompeii id_BBC" stroke-opacity="1.0" stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.607769,14.363882 L -71.705460,25.931616"
+              class="id_Pompeii id_Drought" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.878669,14.669365 L 126.708862,70.244370"
+              class="id_Pompeii id_Earthquake" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -25.616325,-2.434916 L -13.161751,-77.671417"
+              class="id_Pompeii id_Great_Britain" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -25.208679,22.495281 L -10.471261,96.429947"
+              class="id_Pompeii id_Greece" stroke-opacity="1.0" stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.034910,10.803278 L 36.857975,13.821934"
+              class="id_Pompeii id_Italy" stroke-opacity="1.0" stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -17.230022,2.907475 L 80.786598,-64.211197"
+              class="id_Pompeii id_Latin" stroke-opacity="1.0" stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -19.513889,19.752796 L 30.116688,78.574516"
+              class="id_Pompeii id_Mount_Vesuvius" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -17.573851,17.705143 L 77.599152,89.590500"
+              class="id_Pompeii id_Volcano" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.064804,8.928472 L 93.729477,-0.888718"
+              class="id_Pompeii id_World_Heritage_Site" stroke-opacity="1.0"
+              stroke="#e34a33"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.086075,-42.081886 L 77.910439,1.470255"
+              class="id_Vulgar_Latin id_Italy" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.088821,-52.941700 L 122.232132,-63.326191"
+              class="id_Vulgar_Latin id_Latin" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.752762,-44.620041 L -10.937227,4.428654"
+              class="id_Vulgar_Latin id_Pompeii" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 136.276581,-53.183617 L 52.811203,-120.257851"
+              class="id_Vulgar_Latin id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -60.210934,-17.483557 L 49.390373,-34.295792"
+              class="id_Advertising id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -60.068596,-15.986302 L 7.380134,-18.507160"
+              class="id_Advertising id_Ancient_history" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -61.740421,-9.076353 L -43.091091,1.407358"
+              class="id_Advertising id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 25.594402,33.954250 L 39.664597,26.182043"
+              class="id_Lemon id_Italy" stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 8.302238,33.352249 L -12.848410,19.667461"
+              class="id_Lemon id_Pompeii" stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -65.216728,-123.033295 L -32.482063,-6.941805"
+              class="id_Book id_Pompeii" stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -57.782417,-132.914993 L 15.257246,-133.351517"
+              class="id_Book id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -126.801384,-22.020664 L -116.838654,-46.168053"
+              class="id_Demosthenes id_Alexander_the_Great" stroke-opacity="1.0"
+              stroke="#fdd6ac"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.431786,-9.302219 L -19.535137,101.128296"
+              class="id_Demosthenes id_Greece" stroke-opacity="1.0"
+              stroke="#fdd6ac"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.252251,-13.060954 L -44.852402,5.868914"
+              class="id_Demosthenes id_Pompeii" stroke-opacity="1.0"
+              stroke="#fdd6ac"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.502289,34.916996 L -44.958450,13.805636"
+              class="id_Cobalt id_Pompeii" stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -36.983109,148.544754 L -29.750376,76.588638"
+              class="id_History_of_painting id_1st_century" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.290207,149.623795 L -18.175467,128.946930"
+              class="id_History_of_painting id_Greece" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.634521,150.536224 L -114.389526,93.888489"
+              class="id_History_of_painting id_Jacques-Louis_David"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.992702,149.147064 L -67.109154,98.941872"
+              class="id_History_of_painting id_Neoclassicism"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -37.149605,148.530701 L -28.890999,27.698641"
+              class="id_History_of_painting id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -42.417973,151.947952 L -81.874504,137.467911"
+              class="id_History_of_painting id_Western_painting"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 85.206909,-129.223694 L 25.572102,-29.290291"
+              class="id_Swastika id_Ancient_history" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 90.282532,-128.429855 L 96.069328,-103.460236"
+              class="id_Swastika id_Latin" stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 84.429230,-129.763687 L -16.631023,-3.720434"
+              class="id_Swastika id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 81.858055,-134.911377 L 57.454338,-134.142349"
+              class="id_Swastika id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.977283,-72.752724 L 49.955292,-42.311832"
+              class="id_Literacy id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -58.166840,-64.857841 L -34.345409,-6.302303"
+              class="id_Literacy id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.862820,-47.907768 L 49.441055,-62.947205"
+              class="id_Ancient_Rome id_Archaeology" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 65.446045,-23.995638 L 62.988976,-7.427514"
+              class="id_Ancient_Rome id_Italy" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 75.807411,-47.221592 L 85.555389,-58.984421"
+              class="id_Ancient_Rome id_Latin" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 55.553398,-31.192186 L -11.851944,2.218862"
+              class="id_Ancient_Rome id_Pompeii" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 63.339188,-49.624203 L 42.824375,-113.387840"
+              class="id_Ancient_Rome id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 54.205814,-37.882095 L -9.991498,-41.908028"
+              class="id_Ancient_Rome id_Roman_road" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.806759,-47.868706 L -6.424771,-142.397369"
+              class="id_Ancient_Rome id_Roman_villa" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 80.462494,-38.856007 L 129.410645,-45.593185"
+              class="id_Ancient_Rome id_Vulgar_Latin" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.726112,-28.849964 L 97.416443,-13.228718"
+              class="id_Ancient_Rome id_World_Heritage_Site"
+              stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -15.592115,-144.772171 L -26.309816,-7.551401"
+              class="id_Roman_villa id_Pompeii" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -5.893624,-150.750412 L 16.825996,-141.463089"
+              class="id_Roman_villa id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.835964,131.856262 L 64.143501,-19.143358"
+              class="id_Santorini id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 28.570171,135.615509 L 8.899965,123.872299"
+              class="id_Santorini id_Greece" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.939224,131.875641 L 55.284286,37.549171"
+              class="id_Santorini id_Italy" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 31.926882,132.533279 L -19.951214,25.957237"
+              class="id_Santorini id_Pompeii" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 41.964745,135.152039 L 77.182678,110.674095"
+              class="id_Santorini id_Volcano" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.354126,85.187477 L -89.104317,85.597839"
+              class="id_Jacques-Louis_David id_Neoclassicism"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.284378,79.340569 L -41.724754,20.801689"
+              class="id_Jacques-Louis_David id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.784369,-12.926565 L -19.590593,45.980759"
+              class="id_Ancient_history id_1st_century" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.725718,-21.159855 L -94.370857,-56.484367"
+              class="id_Ancient_history id_Alexander_the_Great"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 25.986588,-21.439266 L 50.351517,-30.630777"
+              class="id_Ancient_history id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.673681,-25.614643 L 33.639431,-60.739323"
+              class="id_Ancient_history id_Archaeology" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.045853,-12.055487 L -3.326527,96.422012"
+              class="id_Ancient_history id_Greece" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 24.771173,-14.408653 L 42.231834,0.391071"
+              class="id_Ancient_history id_Italy" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 25.103201,-23.080982 L 81.170303,-63.666264"
+              class="id_Ancient_history id_Latin" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.719572,-13.711035 L -64.261475,74.702332"
+              class="id_Ancient_history id_Neoclassicism" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.417673,-15.266103 L -12.641442,0.794956"
+              class="id_Ancient_history id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 20.435671,-25.914537 L 33.270000,-112.601242"
+              class="id_Ancient_history id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 23.057829,-12.945387 L 82.606812,85.064316"
+              class="id_Ancient_history id_Volcano" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -32.709904,-44.708637 L -93.914330,-58.150787"
+              class="id_Roman_road id_Alexander_the_Great" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -14.981695,-42.220970 L 49.215614,-38.195042"
+              class="id_Roman_road id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -22.972980,-33.857853 L -8.861425,96.182655"
+              class="id_Roman_road id_Greece" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -16.563042,-37.668941 L 40.884186,2.147042"
+              class="id_Roman_road id_Italy" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.575953,-33.827904 L -26.436977,-7.560869"
+              class="id_Roman_road id_Pompeii" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -18.970911,-50.258617 L 24.676052,-115.903709"
+              class="id_Roman_road id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -86.376007,132.698349 L -24.790012,118.563202"
+              class="id_Western_painting id_Greece" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -86.568398,135.745300 L -47.111870,150.225342"
+              class="id_Western_painting id_History_of_painting"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -94.674248,129.502762 L -117.500793,96.843338"
+              class="id_Western_painting id_Jacques-Louis_David"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -89.142891,129.132965 L -35.791656,25.771231"
+              class="id_Western_painting id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -98.634552,-60.135895 L 49.353325,-39.562252"
+              class="id_Alexander_the_Great id_Ancient_Rome"
+              stroke-opacity="1.0" stroke="#fdc491"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -114.931679,-50.790112 L -124.894409,-26.642727"
+              class="id_Alexander_the_Great id_Demosthenes" stroke-opacity="1.0"
+              stroke="#fdc491"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -99.577271,-56.875584 L 38.847904,5.741387"
+              class="id_Alexander_the_Great id_Italy" stroke-opacity="1.0"
+              stroke="#fdc491"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -101.431885,-53.981976 L -41.028591,-1.520911"
+              class="id_Alexander_the_Great id_Pompeii" stroke-opacity="1.0"
+              stroke="#fdc491"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -66.710289,79.326096 L 53.635620,-25.124260"
+              class="id_Neoclassicism id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -65.074913,89.701241 L -23.789810,107.259964"
+              class="id_Neoclassicism id_Greece" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -84.104881,85.673126 L -111.354691,85.262764"
+              class="id_Neoclassicism id_Jacques-Louis_David"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.009758,77.376274 L -36.932251,25.127903"
+              class="id_Neoclassicism id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.420403,48.142715 L 74.136108,-20.151876"
+              class="id_Sicilian_Baroque id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 106.963974,54.610992 L 128.206802,67.164642"
+              class="id_Sicilian_Baroque id_Earthquake" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 99.670609,49.396069 L 76.981918,29.983856"
+              class="id_Sicilian_Baroque id_Italy" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 98.668144,53.157127 L -59.543621,83.053719"
+              class="id_Sicilian_Baroque id_Neoclassicism" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 98.807854,50.938026 L -10.869522,15.500811"
+              class="id_Sicilian_Baroque id_Pompeii" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 103.733597,47.867844 L 108.524445,14.720448"
+              class="id_Sicilian_Baroque id_World_Heritage_Site"
+              stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -17.489376,64.649826 L 26.587084,83.358192"
+              class="id_1st_century id_Mount_Vesuvius" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.002977,48.623055 L -27.831253,27.739176"
+              class="id_1st_century id_Pompeii" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -24.457619,49.212658 L 29.694904,-113.454086"
+              class="id_1st_century id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 31.189646,85.311760 L -12.886815,66.603394"
+              class="id_Mount_Vesuvius id_1st_century" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 40.133064,80.757050 L 63.280869,-19.321012"
+              class="id_Mount_Vesuvius id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 46.143047,87.610855 L 125.362900,79.958755"
+              class="id_Mount_Vesuvius id_Earthquake" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 40.551392,80.866096 L 53.275116,37.063046"
+              class="id_Mount_Vesuvius id_Italy" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.341034,82.395981 L -16.289543,23.574261"
+              class="id_Mount_Vesuvius id_Pompeii" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 45.988632,90.075493 L 74.407738,96.473427"
+              class="id_Mount_Vesuvius id_Volcano" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 158.065933,24.187218 L 150.896820,57.254879"
+              class="id_Lisbon id_Earthquake" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 155.095337,7.030949 L 115.293747,-56.964943"
+              class="id_Lisbon id_Latin" stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 150.666229,14.760230 L -10.019636,10.532199"
+              class="id_Lisbon id_Pompeii" stroke-opacity="1.0" stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 157.629349,5.933024 L 146.968552,-33.929840"
+              class="id_Lisbon id_Vulgar_Latin" stroke-opacity="1.0"
+              stroke="#fee8c8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 46.593185,-67.056908 L 57.014954,-52.017467"
+              class="id_Archaeology id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.063622,-77.733246 L 76.330498,-78.165001"
+              class="id_Archaeology id_Latin" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 131.487381,84.089035 L 108.543839,93.562424"
+              class="id_Earthquake id_Volcano" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.520018,-88.642067 L 53.222572,-48.493965"
+              class="id_Great_Britain id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.357424,-100.980339 L -110.997047,-109.797897"
+              class="id_Great_Britain id_BBC" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.565792,103.338425 L 46.940117,34.108067"
+              class="id_Greece id_Italy" stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 4.606840,121.309280 L 24.277046,133.052490"
+              class="id_Greece id_Santorini" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 62.255497,-2.481606 L 64.712563,-19.049728"
+              class="id_Italy id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.412743,-0.099014 L 1.725004,-80.536346"
+              class="id_Italy id_Great_Britain" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.722782,29.953941 L 3.348457,99.184296"
+              class="id_Italy id_Greece" stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.953156,-1.105308 L 91.364082,-55.363770"
+              class="id_Italy id_Latin" stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 56.883202,-2.459722 L 39.626698,-112.627907"
+              class="id_Italy id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 65.953209,31.813656 L 85.572723,83.616928"
+              class="id_Italy id_Volcano" stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 88.745796,-62.834267 L 78.997818,-51.071438"
+              class="id_Latin id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 81.668602,-82.348320 L 11.898714,-95.257431"
+              class="id_Latin id_Great_Britain" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.415527,-59.923546 L 69.004608,-5.665084"
+              class="id_Latin id_Italy" stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 86.113907,-91.785469 L 52.536316,-119.922890"
+              class="id_Latin id_Roman_Empire" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 118.231018,-66.324707 L 132.087708,-55.940216"
+              class="id_Latin id_Vulgar_Latin" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 103.922295,95.470657 L 126.865837,85.997269"
+              class="id_Volcano id_Earthquake" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 79.097839,102.242813 L 11.315445,111.868507"
+              class="id_Volcano id_Greece" stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.343628,88.292816 L 67.724113,36.489540"
+              class="id_Volcano id_Italy" stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.651649,87.471970 L 100.419991,-53.157448"
+              class="id_Volcano id_Latin" stroke-opacity="1.0" stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 79.285652,97.571579 L 50.866547,91.173645"
+              class="id_Volcano id_Mount_Vesuvius" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 81.288376,107.820465 L 46.070442,132.298401"
+              class="id_Volcano id_Santorini" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 99.325554,1.553384 L 81.231216,7.751583"
+              class="id_World_Heritage_Site id_Italy" stroke-opacity="1.0"
+              stroke="#ed7753"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.891563,-126.408134 L -95.234810,-69.181648"
+              class="id_Roman_Empire id_Alexander_the_Great"
+              stroke-opacity="1.0" stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 41.293018,-118.147560 L 61.807831,-54.383926"
+              class="id_Roman_Empire id_Ancient_Rome" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 38.852943,-117.567673 L 56.109447,-7.399487"
+              class="id_Roman_Empire id_Italy" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 48.703987,-123.134308 L 82.281578,-94.996895"
+              class="id_Roman_Empire id_Latin" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 29.799103,-118.771133 L -20.485121,-6.071495"
+              class="id_Roman_Empire id_Pompeii" stroke-opacity="1.0"
+              stroke="#f7a473"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#e34a33" r="12.172416" cx="-27.68594"
+                class="id_Pompeii" cy="10.067356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7a473" r="8.557375" cx="143.33673"
+                class="id_Vulgar_Latin" cy="-47.50996" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="12.602474" cx="-73.16193"
+                class="id_Advertising" cy="-15.496946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="9.583373" cx="16.768105"
+                class="id_Lemon" cy="38.829792" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="9.703671" cx="-67.98591"
+                class="id_Book" cy="-132.85402" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fdd6ac" r="7.2107067" cx="-129.7422"
+                class="id_Demosthenes" cy="-14.89279" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="9.348921" cx="-152.12834"
+                class="id_Cobalt" cy="37.00036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="4.7319136" cx="-37.506363"
+                class="id_History_of_painting" cy="153.75044" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="6.3755913" cx="88.73023"
+                class="id_Swastika" cy="-135.12793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="11.883482" cx="-62.833286"
+                class="id_Literacy" cy="-76.32845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="12.702938" cx="67.382866"
+                class="id_Ancient_Rome" cy="-37.05574" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7a473" r="9.164509" cx="-14.839556"
+                class="id_Roman_villa" cy="-154.40733" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7a473" r="7.4740725" cx="35.416912"
+                class="id_Santorini" cy="139.70305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="8.893181" cx="-125.74624"
+                class="id_Jacques-Louis_David" cy="85.04604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="6.5337815" cx="19.40552"
+                class="id_Ancient_history" cy="-18.956602" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7a473" r="8.477398" cx="-23.941492"
+                class="id_Roman_road" cy="-42.782856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="4.8622494" cx="-91.60236"
+                class="id_Western_painting" cy="133.8979" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fdc491" r="11.379513" cx="-110.4009"
+                class="id_Alexander_the_Great" cy="-61.771683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="9.41084" cx="-74.19517"
+                class="id_Neoclassicism" cy="85.82236" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="4.0" cx="103.08989"
+                class="id_Sicilian_Baroque" cy="52.321568" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="11.024412" cx="-28.097738"
+                class="id_1st_century" cy="60.14708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="7.304981" cx="38.374226"
+                class="id_Mount_Vesuvius" cy="88.361275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fee8c8" r="8.893181" cx="160.05615"
+                class="id_Lisbon" cy="15.007301" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="12.214019" cx="39.351616"
+                class="id_Archaeology" cy="-77.50707" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="15.626404" cx="-132.00974"
+                class="id_BBC" cy="-111.98695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="14.789648" cx="-90.79335"
+                class="id_Drought" cy="32.81073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="15.650549" cx="146.41547"
+                class="id_Earthquake" cy="77.925224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="16.355818" cx="-9.592337"
+                class="id_Great_Britain" cy="-99.233795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="12.876858" cx="-6.8788695"
+                class="id_Greece" cy="114.452255" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="17.32166" cx="59.64112"
+                class="id_Italy" cy="15.14725" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="20.0" cx="101.82646"
+                class="id_Latin" cy="-78.61863" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="12.467395" cx="91.936424"
+                class="id_Volcano" cy="100.419624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ed7753" r="11.846504" cx="111.00578"
+                class="id_World_Heritage_Site" cy="-2.4476678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f7a473" r="15.60397" cx="36.36084"
+                class="id_Roman_Empire" cy="-133.47765" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_1st_century"
+                  points="-28.002977,48.623055 -30.461781,43.602669 -25.461948,43.643784"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_Ancient_Rome"
+                  points="55.553398,-31.192184 52.183815,-26.731705 49.963264,-31.211567"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_Archaeology"
+                  points="31.623474,-67.411423 30.569397,-61.921528 26.599113,-64.960747"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0" class="id_Pompeii id_BBC"
+                  points="-121.531853,-99.728287 -116.382774,-97.551819 -120.183586,-94.303146"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_Drought"
+                  points="-76.409309,27.626842 -72.553070,23.579691 -70.857849,28.283541"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_Earthquake"
+                  points="131.367508,72.060127 125.800980,72.573692 127.616745,67.915047"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_Great_Britain"
+                  points="-12.345169,-82.604286 -10.695316,-77.263123 -15.628185,-78.079712"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0" class="id_Pompeii id_Greece"
+                  points="-9.493838,101.333481 -12.923028,96.918655 -8.019494,95.941238"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0" class="id_Pompeii id_Italy"
+                  points="41.849537,14.112298 36.712791,16.317715 37.003159,11.326153"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0" class="id_Pompeii id_Latin"
+                  points="84.912064,-67.036186 82.199089,-62.148464 79.374107,-66.273926"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_Mount_Vesuvius"
+                  points="33.341034,82.395981 28.205956,80.186691 32.027420,76.962341"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_Volcano"
+                  points="81.588951,92.604050 76.092377,91.585403 79.105927,87.595596"
+                  stroke="none"/>
+        <polyline fill="#e34a33" fill-opacity="1.0"
+                  class="id_Pompeii id_World_Heritage_Site"
+                  points="98.709244,-1.338074 93.954155,1.601166 93.504799,-3.378602"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Vulgar_Latin id_Italy"
+                  points="73.907814,4.466749 76.412193,-0.531059 79.408684,3.471568"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Vulgar_Latin id_Latin"
+                  points="118.231018,-66.324707 123.731392,-65.326744 120.732872,-61.325634"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Vulgar_Latin id_Pompeii"
+                  points="-15.675888,6.023994 -11.734898,2.059325 -10.139557,6.797984"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Vulgar_Latin id_Roman_Empire"
+                  points="48.913746,-123.389908 54.377235,-122.206581 51.245171,-118.309120"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Advertising id_Ancient_Rome"
+                  points="54.332569,-35.053898 49.769424,-31.824696 49.011322,-36.766888"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Advertising id_Ancient_history"
+                  points="12.376645,-18.693901 7.473505,-16.008904 7.286763,-21.005417"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Advertising id_Pompeii"
+                  points="-38.732559,3.857504 -44.316162,3.586623 -41.866020,-0.771907"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0" class="id_Lemon id_Italy"
+                  points="44.041256,23.764429 40.873405,28.370373 38.455788,23.993713"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0" class="id_Lemon id_Pompeii"
+                  points="-17.046345,16.951334 -11.490346,17.568495 -14.206473,21.766428"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0" class="id_Book id_Pompeii"
+                  points="-31.125111,-2.129457 -34.888237,-6.263329 -30.075890,-7.620281"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Book id_Roman_Empire"
+                  points="20.257156,-133.381409 15.272187,-130.851563 15.242305,-135.851471"
+                  stroke="none"/>
+        <polyline fill="#fdd6ac" fill-opacity="1.0"
+                  class="id_Demosthenes id_Alexander_the_Great"
+                  points="-114.931679,-50.790112 -114.527618,-45.214565 -119.149689,-47.121540"
+                  stroke="none"/>
+        <polyline fill="#fdd6ac" fill-opacity="1.0"
+                  class="id_Demosthenes id_Greece"
+                  points="-16.091604,104.753502 -21.347736,102.850060 -17.722538,99.406532"
+                  stroke="none"/>
+        <polyline fill="#fdd6ac" fill-opacity="1.0"
+                  class="id_Demosthenes id_Pompeii"
+                  points="-39.995548,7.056766 -45.446327,8.297339 -44.258476,3.440488"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0" class="id_Cobalt id_Pompeii"
+                  points="-40.071594,12.747976 -44.429619,16.249063 -45.487282,11.362208"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_History_of_painting id_1st_century"
+                  points="-29.250317,71.613708 -27.262911,76.838669 -32.237843,76.338608"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_History_of_painting id_Greece"
+                  points="-15.101873,125.003204 -16.203600,130.483734 -20.147333,127.410133"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_History_of_painting id_Jacques-Louis_David"
+                  points="-118.334702,90.816742 -112.853653,91.915901 -115.925400,95.861076"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_History_of_painting id_Neoclassicism"
+                  points="-69.485283,94.542549 -64.909492,97.753807 -69.308815,100.129936"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_History_of_painting id_Pompeii"
+                  points="-28.550056,22.710278 -26.396818,27.869112 -31.385180,27.528170"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_History_of_painting id_Western_painting"
+                  points="-86.568398,135.745300 -81.013206,135.120956 -82.735802,139.814865"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Swastika id_Ancient_history"
+                  points="23.009905,-24.996675 23.425293,-30.571388 27.718910,-28.009193"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0" class="id_Swastika id_Latin"
+                  points="97.198181,-98.589333 93.633873,-102.895813 98.504784,-104.024658"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Swastika id_Pompeii"
+                  points="-19.758755,0.180502 -18.581491,-5.284300 -14.680555,-2.156568"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Swastika id_Roman_Empire"
+                  points="52.456818,-133.984863 57.375595,-136.641113 57.533081,-131.643585"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Literacy id_Ancient_Rome"
+                  points="54.742313,-40.868084 49.233418,-39.918320 50.677166,-44.705345"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Literacy id_Pompeii"
+                  points="-32.461266,-1.670888 -36.661118,-5.360232 -32.029701,-7.244374"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_Archaeology"
+                  points="46.593185,-67.056908 51.495907,-64.371140 47.386204,-61.523270"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_Italy"
+                  points="62.255493,-2.481606 60.516022,-7.794255 65.461929,-7.060773"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_Latin"
+                  points="88.745796,-62.834263 87.480309,-57.389217 83.630470,-60.579624"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_Pompeii"
+                  points="-16.331806,4.439411 -12.962218,-0.021069 -10.741670,4.458793"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_Roman_Empire"
+                  points="41.293018,-118.147560 45.204235,-114.153519 40.444515,-112.622162"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_Roman_road"
+                  points="-14.981695,-42.220970 -9.835026,-44.403126 -10.147970,-39.412930"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_Roman_villa"
+                  points="-9.293871,-146.492279 -4.377317,-143.831924 -8.472225,-140.962814"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_Vulgar_Latin"
+                  points="134.363953,-46.274956 129.751526,-43.116535 129.069763,-48.069836"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Ancient_Rome id_World_Heritage_Site"
+                  points="101.333466,-10.121161 95.862663,-11.270205 98.970222,-15.187230"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_villa id_Pompeii"
+                  points="-26.699160,-2.566582 -28.802225,-7.746072 -23.817408,-7.356730"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_villa id_Roman_Empire"
+                  points="21.454235,-139.571167 15.880031,-139.148972 17.771961,-143.777206"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Santorini id_Ancient_Rome"
+                  points="65.033295,-24.063549 66.603600,-18.698462 61.683407,-19.588255"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Santorini id_Greece"
+                  points="4.606839,121.309280 10.181475,121.725739 7.618456,126.018860"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Santorini id_Italy"
+                  points="56.238827,32.641132 57.738308,38.026440 52.830265,37.071903"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Santorini id_Pompeii"
+                  points="-22.139574,21.461563 -17.703377,24.863056 -22.199051,27.051418"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Santorini id_Volcano"
+                  points="81.288376,107.820465 78.609497,112.726944 75.755859,108.621246"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Jacques-Louis_David id_Neoclassicism"
+                  points="-84.104881,85.673126 -89.141960,88.097557 -89.066673,83.098122"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Jacques-Louis_David id_Pompeii"
+                  points="-37.752800,17.764658 -40.206238,22.787668 -43.243271,18.815710"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_1st_century"
+                  points="-22.164707,50.267242 -21.733835,44.693703 -17.447351,47.267815"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Alexander_the_Great"
+                  points="-99.119232,-58.050560 -93.587761,-58.858555 -95.153954,-54.110180"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Ancient_Rome"
+                  points="55.029705,-32.395592 51.233925,-28.291683 49.469109,-32.969872"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Archaeology"
+                  points="35.251766,-65.472229 36.005882,-59.933155 31.272980,-61.545490"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Greece"
+                  points="-4.293053,101.327705 -5.779373,95.938751 -0.873680,96.905273"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Italy"
+                  points="46.046036,3.624004 40.615368,2.298173 43.848301,-1.516030"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Latin"
+                  points="85.220535,-66.598099 82.636223,-61.641151 79.704384,-65.691376"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Neoclassicism"
+                  points="-67.592506,78.431175 -66.125893,73.036819 -62.397057,76.367844"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Pompeii"
+                  points="-16.897934,3.418367 -13.953148,-1.333289 -11.329737,2.923202"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Roman_Empire"
+                  points="34.002289,-117.547325 35.743042,-112.235100 30.796959,-112.967384"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Ancient_history id_Volcano"
+                  points="85.203072,89.337418 80.470261,86.362450 84.743362,83.766182"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_road id_Alexander_the_Great"
+                  points="-98.797935,-59.223358 -93.378044,-60.592590 -94.450615,-55.708984"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_road id_Ancient_Rome"
+                  points="54.205814,-37.882095 49.059143,-35.699944 49.372086,-40.690140"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_road id_Greece"
+                  points="-8.322008,101.153473 -11.346834,96.452362 -6.376017,95.912949"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_road id_Italy"
+                  points="44.993645,4.995259 39.460075,4.201772 42.308296,0.092313"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_road id_Pompeii"
+                  points="-26.790342,-2.573372 -28.930725,-7.737552 -23.943230,-7.384187"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_road id_Roman_Empire"
+                  points="27.444439,-120.067368 26.757881,-114.519516 22.594223,-117.287903"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Western_painting id_Greece"
+                  points="-19.916723,117.444687 -24.230757,120.999847 -25.349268,116.126556"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Western_painting id_History_of_painting"
+                  points="-42.417973,151.947937 -47.973171,152.572296 -46.250568,147.878387"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Western_painting id_Jacques-Louis_David"
+                  points="-120.365150,92.745117 -115.451683,95.411156 -119.549904,98.275520"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Western_painting id_Pompeii"
+                  points="-33.498333,21.328182 -33.570133,26.917892 -38.013180,24.624569"
+                  stroke="none"/>
+        <polyline fill="#fdc491" fill-opacity="1.0"
+                  class="id_Alexander_the_Great id_Ancient_Rome"
+                  points="54.305695,-38.873760 49.009079,-37.086067 49.697571,-42.038437"
+                  stroke="none"/>
+        <polyline fill="#fdc491" fill-opacity="1.0"
+                  class="id_Alexander_the_Great id_Demosthenes"
+                  points="-126.801384,-22.020664 -127.205444,-27.596212 -122.583374,-25.689241"
+                  stroke="none"/>
+        <polyline fill="#fdc491" fill-opacity="1.0"
+                  class="id_Alexander_the_Great id_Italy"
+                  points="43.403492,7.802119 37.817539,8.019181 39.878269,3.463593"
+                  stroke="none"/>
+        <polyline fill="#fdc491" fill-opacity="1.0"
+                  class="id_Alexander_the_Great id_Pompeii"
+                  points="-37.253597,1.757720 -42.667908,0.366585 -39.389275,-3.408408"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Neoclassicism id_Ancient_Rome"
+                  points="57.411728,-28.401611 55.274296,-23.236206 51.996944,-27.012314"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Neoclassicism id_Greece"
+                  points="-19.188658,109.216850 -24.768255,109.560539 -22.811365,104.959389"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Neoclassicism id_Jacques-Louis_David"
+                  points="-116.354126,85.187477 -111.317047,82.763046 -111.392334,87.762482"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Neoclassicism id_Pompeii"
+                  points="-34.316223,20.866871 -34.801735,26.435917 -39.062767,23.819889"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Sicilian_Baroque id_Ancient_Rome"
+                  points="72.281120,-24.795044 76.457695,-21.079370 71.814522,-19.224382"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Sicilian_Baroque id_Earthquake"
+                  points="132.511337,69.708450 126.934898,69.316910 129.478699,65.012375"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Sicilian_Baroque id_Italy"
+                  points="73.182724,26.733303 78.607193,28.084257 75.356644,31.883455"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Sicilian_Baroque id_Neoclassicism"
+                  points="-64.456673,83.982117 -60.007820,80.597191 -59.079422,85.510246"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Sicilian_Baroque id_Pompeii"
+                  points="-15.627337,13.963540 -10.100887,13.121903 -11.638157,17.879719"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Sicilian_Baroque id_World_Heritage_Site"
+                  points="109.239670,9.771866 110.998734,15.078061 106.050156,14.362834"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_1st_century id_Mount_Vesuvius"
+                  points="31.189646,85.311760 25.610300,85.659470 27.563868,81.056915"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_1st_century id_Pompeii"
+                  points="-27.790140,22.739344 -25.331337,27.759731 -30.331169,27.718620"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_1st_century id_Roman_Empire"
+                  points="31.274212,-118.198112 32.066917,-112.664429 27.322891,-114.243744"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Mount_Vesuvius id_1st_century"
+                  points="-17.489376,64.649826 -11.910030,64.302116 -13.863600,68.904671"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Mount_Vesuvius id_Ancient_Rome"
+                  points="64.407608,-24.192404 65.716568,-18.757643 60.845173,-19.884382"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Mount_Vesuvius id_Earthquake"
+                  points="130.339737,79.478027 125.603264,82.447174 125.122536,77.470337"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Mount_Vesuvius id_Italy"
+                  points="54.669846,32.261513 55.675884,37.760410 50.874348,36.365681"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Mount_Vesuvius id_Pompeii"
+                  points="-19.513889,19.752796 -14.378811,21.962088 -18.200275,25.186434"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Mount_Vesuvius id_Volcano"
+                  points="79.285652,97.571579 73.858658,98.912384 74.956818,94.034470"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Lisbon id_Earthquake"
+                  points="149.837433,62.141357 148.453583,56.725182 153.340057,57.784576"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0" class="id_Lisbon id_Latin"
+                  points="112.653107,-61.210762 117.416656,-58.285267 113.170837,-55.644619"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0" class="id_Lisbon id_Pompeii"
+                  points="-15.017908,10.400682 -9.953877,8.033064 -10.085395,13.031334"
+                  stroke="none"/>
+        <polyline fill="#fee8c8" fill-opacity="1.0"
+                  class="id_Lisbon id_Vulgar_Latin"
+                  points="145.676773,-38.760086 149.383682,-34.575733 144.553421,-33.283947"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Archaeology id_Ancient_Rome"
+                  points="59.862820,-47.907768 54.960102,-50.593533 59.069805,-53.441402"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Archaeology id_Latin"
+                  points="81.329704,-78.253952 76.374969,-75.665398 76.286026,-80.664604"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Earthquake id_Volcano"
+                  points="103.922295,95.470657 107.589722,91.251656 109.497955,95.873192"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Great_Britain id_Ancient_Rome"
+                  points="57.112133,-45.352104 51.651642,-46.549183 54.793503,-50.438747"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Great_Britain id_BBC"
+                  points="-115.970139,-110.315987 -110.738007,-112.284439 -111.256088,-107.311356"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0" class="id_Greece id_Italy"
+                  points="49.722782,29.953941 49.017181,35.499397 44.863052,32.716736"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Greece id_Santorini"
+                  points="28.570171,135.615509 22.995537,135.199051 25.558556,130.905930"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Italy id_Ancient_Rome"
+                  points="65.446045,-23.995636 67.185516,-18.682987 62.239609,-19.416470"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Italy id_Great_Britain"
+                  points="-0.864087,-84.813797 3.863731,-81.830894 -0.413723,-79.241798"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0" class="id_Italy id_Greece"
+                  points="0.565792,103.338417 1.271393,97.792961 5.425521,100.575630"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0" class="id_Italy id_Latin"
+                  points="93.415527,-59.923546 93.643974,-54.338047 89.084190,-56.389492"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Italy id_Roman_Empire"
+                  points="38.852943,-117.567673 42.096581,-113.014786 37.156815,-112.241028"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0" class="id_Italy id_Volcano"
+                  points="87.343628,88.292816 83.234779,84.502380 87.910667,82.731476"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Latin id_Ancient_Rome"
+                  points="75.807411,-47.221596 77.072899,-52.666641 80.922737,-49.476234"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Latin id_Great_Britain"
+                  points="6.982162,-96.167114 12.353555,-97.715706 11.443873,-92.799156"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0" class="id_Latin id_Italy"
+                  points="66.953156,-1.105308 66.724716,-6.690807 71.284500,-4.639360"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Latin id_Roman_Empire"
+                  points="48.703987,-123.134308 54.142029,-121.839058 50.930603,-118.006721"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Latin id_Vulgar_Latin"
+                  points="136.088821,-52.941700 130.588455,-53.939659 133.586960,-57.940773"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Volcano id_Earthquake"
+                  points="131.487381,84.089035 127.819954,88.308037 125.911720,83.686501"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0" class="id_Volcano id_Greece"
+                  points="6.365112,112.571495 10.963950,109.393341 11.666940,114.343674"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0" class="id_Volcano id_Italy"
+                  points="65.953209,31.813656 70.062057,35.604088 65.386169,37.374992"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0" class="id_Volcano id_Latin"
+                  points="100.695770,-58.149834 102.916183,-53.019558 97.923798,-53.295338"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Volcano id_Mount_Vesuvius"
+                  points="45.988632,90.075493 51.415623,88.734688 50.317471,93.612602"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_Volcano id_Santorini"
+                  points="41.964745,135.152039 44.643627,130.245544 47.497257,134.351257"
+                  stroke="none"/>
+        <polyline fill="#ed7753" fill-opacity="1.0"
+                  class="id_World_Heritage_Site id_Italy"
+                  points="76.501038,9.371901 80.421059,5.386495 82.041374,10.116671"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_Empire id_Alexander_the_Great"
+                  points="-99.727264,-66.986687 -96.332291,-71.427879 -94.137329,-66.935417"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_Empire id_Ancient_Rome"
+                  points="63.339188,-49.624203 59.427971,-53.618248 64.187691,-55.149605"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_Empire id_Italy"
+                  points="56.883202,-2.459720 53.639565,-7.012610 58.579330,-7.786365"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_Empire id_Latin"
+                  points="86.113907,-91.785469 80.675865,-93.080727 83.887291,-96.913063"
+                  stroke="none"/>
+        <polyline fill="#f7a473" fill-opacity="1.0"
+                  class="id_Roman_Empire id_Pompeii"
+                  points="-22.522427,-1.505382 -22.768177,-7.090147 -18.202065,-5.052843"
+                  stroke="none"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="10" x="-27.68594" y="12.353733"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pompeii" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Pompeii
+        </text>
+        <text stroke-linecap="round" font-size="10" x="143.33673" y="-45.194286"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vulgar_Latin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Vulgar_Latin
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-73.16193"
+              y="-13.1812725" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Advertising" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Advertising
+        </text>
+        <text stroke-linecap="round" font-size="10" x="16.768105" y="40.64864"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lemon" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Lemon
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-67.98591" y="-131.03517"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Book" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Book
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-129.7422" y="-13.073942"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Demosthenes" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Demosthenes
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-152.12834" y="38.850945"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cobalt" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Cobalt
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-37.506363" y="156.09663"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_History_of_painting"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.25px">
+            History_of_painting
+        </text>
+        <text stroke-linecap="round" font-size="10" x="88.73023" y="-133.27734"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Swastika" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Swastika
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-62.833286" y="-74.01278"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Literacy" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Literacy
+        </text>
+        <text stroke-linecap="round" font-size="10" x="67.382866" y="-34.769363"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ancient_Rome" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Ancient_Rome
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-14.839556"
+              y="-152.12096" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roman_villa" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Roman_villa
+        </text>
+        <text stroke-linecap="round" font-size="10" x="35.416912" y="141.55363"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Santorini" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Santorini
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-125.74624" y="87.33242"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jacques-Louis_David"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.25px">
+            Jacques-Louis_David
+        </text>
+        <text stroke-linecap="round" font-size="10" x="19.40552" y="-16.640928"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ancient_history" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Ancient_history
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-23.941492" y="-40.49648"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roman_road" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Roman_road
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-91.60236" y="136.21358"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Western_painting" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Western_painting
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-110.4009" y="-59.45479"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alexander_the_Great"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.25px">
+            Alexander_the_Great
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-74.19517" y="87.641205"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Neoclassicism" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Neoclassicism
+        </text>
+        <text stroke-linecap="round" font-size="10" x="103.08989" y="54.638462"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sicilian_Baroque" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Sicilian_Baroque
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-28.097738" y="62.470078"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_1st_century" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            1st_century
+        </text>
+        <text stroke-linecap="round" font-size="10" x="38.374226" y="90.64765"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mount_Vesuvius" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Mount_Vesuvius
+        </text>
+        <text stroke-linecap="round" font-size="10" x="160.05615" y="16.826149"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lisbon" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Lisbon
+        </text>
+        <text stroke-linecap="round" font-size="10" x="39.351616" y="-75.1914"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Archaeology" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Archaeology
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-132.00974"
+              y="-110.13637" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BBC" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            BBC
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-90.79335" y="35.126404"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Drought" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Drought
+        </text>
+        <text stroke-linecap="round" font-size="10" x="146.41547" y="80.2116"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Earthquake" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Earthquake
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-9.592337" y="-96.9169"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Great_Britain" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Great_Britain
+        </text>
+        <text stroke-linecap="round" font-size="10" x="-6.8788695" y="116.30284"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Greece" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Greece
+        </text>
+        <text stroke-linecap="round" font-size="10" x="59.64112" y="17.462925"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Italy" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Italy
+        </text>
+        <text stroke-linecap="round" font-size="10" x="101.82646" y="-76.79978"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Latin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Latin
+        </text>
+        <text stroke-linecap="round" font-size="10" x="91.936424" y="102.23847"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Volcano" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Volcano
+        </text>
+        <text stroke-linecap="round" font-size="10" x="111.00578"
+              y="-0.10147643" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_World_Heritage_Site"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="1.25px">
+            World_Heritage_Site
+        </text>
+        <text stroke-linecap="round" font-size="10" x="36.36084" y="-131.19127"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roman_Empire" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.25px">
+            Roman_Empire
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="10" x="-27.68594" y="12.353733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pompeii">
+            Pompeii
+        </text>
+        <text font-size="10" x="143.33673" y="-45.194286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vulgar_Latin">
+            Vulgar_Latin
+        </text>
+        <text font-size="10" x="-73.16193" y="-13.1812725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Advertising">
+            Advertising
+        </text>
+        <text font-size="10" x="16.768105" y="40.64864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lemon">
+            Lemon
+        </text>
+        <text font-size="10" x="-67.98591" y="-131.03517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Book">
+            Book
+        </text>
+        <text font-size="10" x="-129.7422" y="-13.073942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Demosthenes">
+            Demosthenes
+        </text>
+        <text font-size="10" x="-152.12834" y="38.850945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cobalt">
+            Cobalt
+        </text>
+        <text font-size="10" x="-37.506363" y="156.09663" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_History_of_painting">
+            History_of_painting
+        </text>
+        <text font-size="10" x="88.73023" y="-133.27734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Swastika">
+            Swastika
+        </text>
+        <text font-size="10" x="-62.833286" y="-74.01278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Literacy">
+            Literacy
+        </text>
+        <text font-size="10" x="67.382866" y="-34.769363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ancient_Rome">
+            Ancient_Rome
+        </text>
+        <text font-size="10" x="-14.839556" y="-152.12096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roman_villa">
+            Roman_villa
+        </text>
+        <text font-size="10" x="35.416912" y="141.55363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Santorini">
+            Santorini
+        </text>
+        <text font-size="10" x="-125.74624" y="87.33242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jacques-Louis_David">
+            Jacques-Louis_David
+        </text>
+        <text font-size="10" x="19.40552" y="-16.640928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ancient_history">
+            Ancient_history
+        </text>
+        <text font-size="10" x="-23.941492" y="-40.49648" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roman_road">
+            Roman_road
+        </text>
+        <text font-size="10" x="-91.60236" y="136.21358" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Western_painting">
+            Western_painting
+        </text>
+        <text font-size="10" x="-110.4009" y="-59.45479" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alexander_the_Great">
+            Alexander_the_Great
+        </text>
+        <text font-size="10" x="-74.19517" y="87.641205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Neoclassicism">
+            Neoclassicism
+        </text>
+        <text font-size="10" x="103.08989" y="54.638462" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sicilian_Baroque">
+            Sicilian_Baroque
+        </text>
+        <text font-size="10" x="-28.097738" y="62.470078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_1st_century">
+            1st_century
+        </text>
+        <text font-size="10" x="38.374226" y="90.64765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mount_Vesuvius">
+            Mount_Vesuvius
+        </text>
+        <text font-size="10" x="160.05615" y="16.826149" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lisbon">
+            Lisbon
+        </text>
+        <text font-size="10" x="39.351616" y="-75.1914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Archaeology">
+            Archaeology
+        </text>
+        <text font-size="10" x="-132.00974" y="-110.13637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_BBC">
+            BBC
+        </text>
+        <text font-size="10" x="-90.79335" y="35.126404" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Drought">
+            Drought
+        </text>
+        <text font-size="10" x="146.41547" y="80.2116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Earthquake">
+            Earthquake
+        </text>
+        <text font-size="10" x="-9.592337" y="-96.9169" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Great_Britain">
+            Great_Britain
+        </text>
+        <text font-size="10" x="-6.8788695" y="116.30284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Greece">
+            Greece
+        </text>
+        <text font-size="10" x="59.64112" y="17.462925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Italy">
+            Italy
+        </text>
+        <text font-size="10" x="101.82646" y="-76.79978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Latin">
+            Latin
+        </text>
+        <text font-size="10" x="91.936424" y="102.23847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Volcano">
+            Volcano
+        </text>
+        <text font-size="10" x="111.00578" y="-0.10147643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_World_Heritage_Site">
+            World_Heritage_Site
+        </text>
+        <text font-size="10" x="36.36084" y="-131.19127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roman_Empire">
+            Roman_Empire
+        </text>
+    </g>
+</svg>
